@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kirtiranjan Maharana</h1>
-<h3 align="center">I’m an Open-Source enthusiast & pursuing my Masters in Computer Application(M.C.A). I am passionate about Full Stack Web Devlopement, DevOps & I enjoy learning new things.</h3>
+<h1 align="center">Hi 👋, I'm Kirtiranjan</h1>
+<h3 align="center">I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and React Native.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtiranjanmaharana&label=Profile%20views&color=0e75b6&style=flat" alt="kirtiranjanmaharana" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KirtiranjanMaharana](https://github.com/KirtiranjanMaharana)
 
-- 💬 Ask me about **Full stack web development**
+- 💬 Ask me about **Front-end Web development**
 
 - 📫 How to reach me **maharanakirtiranjan2020@gmai.com**
 
