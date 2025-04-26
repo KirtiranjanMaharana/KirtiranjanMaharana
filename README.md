@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Front-end Web development**
 
-- 📫 How to reach me **maharanakirtiranjan2020@gmai.com**
+- 📫 How to reach me **kirtiranjanamaharana.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
